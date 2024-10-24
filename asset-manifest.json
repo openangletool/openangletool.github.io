@@ -1,27 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f4c582c.chunk.css",
-    "main.js": "/static/js/main.7546669f.chunk.js",
-    "main.js.map": "/static/js/main.7546669f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4b486d87.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4b486d87.js.map",
-    "static/css/2.8c502dfb.chunk.css": "/static/css/2.8c502dfb.chunk.css",
-    "static/js/2.8f57e09f.chunk.js": "/static/js/2.8f57e09f.chunk.js",
-    "static/js/2.8f57e09f.chunk.js.map": "/static/js/2.8f57e09f.chunk.js.map",
-    "index.html": "/index.html",
+    "main.css": "/static/css/main.f9f16604.css",
+    "main.js": "/static/js/main.3c434b55.js",
     "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/2.8c502dfb.chunk.css.map": "/static/css/2.8c502dfb.chunk.css.map",
-    "static/css/main.0f4c582c.chunk.css.map": "/static/css/main.0f4c582c.chunk.css.map",
-    "static/js/2.8f57e09f.chunk.js.LICENSE.txt": "/static/js/2.8f57e09f.chunk.js.LICENSE.txt",
-    "static/media/geo1.dbea02bb.svg": "/static/media/geo1.dbea02bb.svg",
-    "static/media/geo2.9467a505.svg": "/static/media/geo2.9467a505.svg"
+    "index.html": "/index.html",
+    "main.f9f16604.css.map": "/static/css/main.f9f16604.css.map",
+    "main.3c434b55.js.map": "/static/js/main.3c434b55.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b486d87.js",
-    "static/css/2.8c502dfb.chunk.css",
-    "static/js/2.8f57e09f.chunk.js",
-    "static/css/main.0f4c582c.chunk.css",
-    "static/js/main.7546669f.chunk.js"
+    "static/css/main.f9f16604.css",
+    "static/js/main.3c434b55.js"
   ]
 }
